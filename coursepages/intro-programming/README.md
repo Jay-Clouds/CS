@@ -24,7 +24,7 @@ This course has been developed by the CS50 team at Harvard University.
 
 ### Course Materials
 
-0. [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/) — [Notes](https://cs50.harvard.edu/python/2022/notes/0/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/0/)
+0. [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/) — [Notes](https://cs50.harvard.edu/python/2022/notes/0/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/0/) ✅✅✅
 1. [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/) — [Notes](https://cs50.harvard.edu/python/2022/notes/1/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/1/)
 2. [Loops](https://cs50.harvard.edu/python/2022/weeks/2/) — [Notes](https://cs50.harvard.edu/python/2022/notes/2/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/2/)
 3. [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/) — [Notes](https://cs50.harvard.edu/python/2022/notes/3/) — [Problem Set](https://cs50.harvard.edu/python/2022/psets/3/)
